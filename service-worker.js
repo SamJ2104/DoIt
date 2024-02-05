@@ -4,7 +4,10 @@ const urlsToCache = [
     'index.html',
     'manifest.json',
     'styles.css',
-    'app.js'
+    'app.js',
+    'icon.png,
+    'service-worker.js',
+    
 ];
 
 self.addEventListener('install', (event) => {
