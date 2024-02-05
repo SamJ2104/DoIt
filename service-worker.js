@@ -1,13 +1,11 @@
-const CACHE_NAME = 'DoIt';
+const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
     '/',
     'index.html',
     'manifest.json',
-    'styles.css',
-    'app.js',
     'icon.png',
-    'service-worker.js',
-    
+    'app.js',
+    "styles.css"
 ];
 
 self.addEventListener('install', (event) => {
