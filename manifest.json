@@ -1,4 +1,6 @@
 {
+    "name": "DoIt",
+    "short_name": "DoIt",
     "theme_color": "#f4f4f4",
     "background_color": "#f4f4f4",
     "display": "standalone",
