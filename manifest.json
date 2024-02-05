@@ -1,0 +1,14 @@
+{
+    "theme_color": "#f4f4f4",
+    "background_color": "#f4f4f4",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+  }
